@@ -2,6 +2,6 @@ return {
     players = {
         "euiivdyj",
         "leo40327",
-        "name"
+        "WWWWT4444"
     }
 }
