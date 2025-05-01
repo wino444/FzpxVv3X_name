@@ -1,7 +1,7 @@
 return {
     players = {
         "euiivdyj",
-        "PlayerName2",
+        "leo40327",
         "PlayerName3"
     }
 }
