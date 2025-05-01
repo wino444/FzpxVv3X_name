@@ -1,0 +1,7 @@
+return {
+    players = {
+        "euiivdyj",
+        "PlayerName2",
+        "PlayerName3"
+    }
+}
