@@ -1,8 +1,8 @@
 return {
     players = {
         "euiivdyj",
-        "jgjkjgj4",
         "leo40327",
+        "jgjkjgj4",
         "PlayerName004",
         "PlayerName005",
         "PlayerName006",
